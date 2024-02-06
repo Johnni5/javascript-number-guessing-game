@@ -4,7 +4,7 @@ just gimmi a break^
 - play a game!
 
 PWA is here:
-https://polite-marigold-111a6f.netlify.app
+<a href='https://polite-marigold-111a6f.netlify.app' alt='netlify_url_pwa'>Click me!</a>
 
 
 
